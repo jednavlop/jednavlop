@@ -2,7 +2,6 @@
 - I’m interested in technology, software and motorcycles
 - I’m currently learning React
 - I’m looking to collaborate on Something
-- Reach me on Twitter @jednavlop
 
 <!---
 jednavlop/jednavlop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
